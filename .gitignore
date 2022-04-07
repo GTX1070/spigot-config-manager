@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+src/test/
+src/main/resources/
+out/
+target/
